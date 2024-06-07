@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlmodel
+pydantic
+pydantic-settings
+prometheus_fastapi_instrumentator
+pytest
+psycopg2-binary
+sqlalchemy
